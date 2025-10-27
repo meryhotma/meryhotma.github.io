@@ -1,3 +1,3 @@
-# [Your name]'s Portfolio
+# Mery's Portfolio
 
 Welcome! Work in progress.
